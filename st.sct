@@ -7,7 +7,7 @@
 	<script language="JScript">
 		<![CDATA[
 	
-			var r = new ActiveXObject("WScript.Shell").Run("steam.exe");	
+			var r = new ActiveXObject("WScript.Shell").Run("c:\Program Files (x86)\Steam\Steam.exe");	
 	
 		]]>
 </script>
